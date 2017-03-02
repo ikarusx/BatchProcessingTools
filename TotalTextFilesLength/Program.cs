@@ -7,7 +7,7 @@ using System.IO;
 
 using BatchFramework;
 
-// batcgFileProcessor
+// batchFileProcessor
 namespace TotalTextFilesLength
 {
     class Program
